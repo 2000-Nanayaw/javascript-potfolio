@@ -1,0 +1,45 @@
+1. Create 5 string variables
+2. Create 5 int variables
+3. Create 5 float variable
+4. Create 5 boolean variables
+5. Document.write out any 10 variables of your choice
+
+
+
+ // STRINGS
+		var name = "Nana Yaw <br>"
+		var age = "23 <br>"
+		var country = "Ghana <br>"
+		var town = "Kasoa-camp <br>"
+		var work = "A Teacher <br>"
+
+     document.write(name, age, country, town, work);
+
+     // INTEGERS
+        let myAge = 25 
+        let myWorkingExperience = 5
+        let myMonthlySalary = 1000.00
+        let myChildren = 20
+        let myAnswer = -6
+
+        document.write(myAge, myWorkingExperience, myMonthlySalary, myChildren, myAnswer);
+
+      // FLOAT VARIABLES
+      const integer = '-3.25 <br>'
+      const tense = '50 <br>'
+      const year = '2022 <br>'
+      const time = '0.15 <br>'
+      const hours = '6 <br>'
+
+      document.write(integer, age, year, time, hours);
+
+     // BOOLEAN VARIABLES
+     var sadmood = "yes <br>"
+     var happy = "no <br>"
+     var angry = "no <br>"
+     var singing ="yes <br>"
+     var dancing ="no <br>"
+
+     document.write(sadmood, happy, angry, singing, dancing);
+
+ 
